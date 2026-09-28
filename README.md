@@ -135,6 +135,7 @@ Live :  https://rahulkumawat30.github.io/sunrise-college-of-technology/
 <img width="1911" height="1033" alt="image" src="https://github.com/user-attachments/assets/32b93382-cb61-45e2-803d-e5d36f570e60" />
 
 Mobile Responsive 
+
 <img width="482" height="769" alt="image" src="https://github.com/user-attachments/assets/e7f49eb3-ec69-46c8-a29a-12f807d7dcf2" />
 <img width="442" height="918" alt="image" src="https://github.com/user-attachments/assets/634af7a7-6aa6-44a2-928e-5bdb0dd57ae9" />
 <img width="465" height="968" alt="image" src="https://github.com/user-attachments/assets/6a4745a2-4795-4331-bbeb-55de60e99927" />
